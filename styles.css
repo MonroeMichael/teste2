@@ -1,0 +1,13 @@
+body{
+    background-image: url(imagens/cozinha.jpeg);
+    background-repeat: no-repeat;
+}
+
+header{ 
+    background-image: url(imagens/header.jpg);
+    font-size: 40px;
+    margin-top: 0;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
